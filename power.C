@@ -11,6 +11,7 @@ int main()
      scanf("%d", &base);
      printf("Enter exponent: ");
       scanf("%d", &exponent);
+    getch();
 
   
     for(i=1; i<=exponent; i++)
